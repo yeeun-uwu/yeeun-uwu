@@ -3,8 +3,14 @@
 ## Hi there 👋 I'm Sasha! 
 I'm a college Junior majoring in Cyber Security :lock: at Ewha Womans University. :mortar_board:
 
-![Velog Badge](http://img.shields.io/badge/Velog-white?style=flat-square&logo=Velog&link=https://velog.io/@lye0102/posts)
+> ### My Velog... 👀
+<div align="center">
 
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lye0102)](https://github.com/lye0102/velog-readme-stats)
+ 
+</div>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=lye0102)](https://velog.io/@lye0102)
 
 ## My Algorithm 
 <div align="center">
