@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=14&height=150&section=header)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=18&height=150&section=header)
+<!-- 14 15 18 24--> 
+
 
 ## Hi there 👋 I'm Sasha! 
 I'm a college Junior majoring in Cyber Security :lock: at Ewha Womans University. :mortar_board:
