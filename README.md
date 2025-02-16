@@ -16,7 +16,8 @@ I'm a college Junior majoring in Cyber Security :lock: at Ewha Womans University
 
 ## My Algorithm 
 <div align="center">
-
+<br/>
+ 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yesilver)](https://solved.ac/yesilver/)
 
 </div>
