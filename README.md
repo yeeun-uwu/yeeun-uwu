@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=18&height=150&section=header)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=18&height=150&section=header&fontSize=30&fontAlign=87&fontAlignY=45&text=Stargazing...&animation=twinkling)
 <!-- 14 15 18 24--> 
 
 
 ## Hi there 👋 I'm Sasha! 
-I'm a college Junior majoring in Cyber Security :lock: at Ewha Womans University. :mortar_board:
+I'm a college Junior majoring in Cyber Security :lock: and Physics :page_facing_up: at Ewha Womans University. :mortar_board:
 
 > ### My Velog... 👀
 <div align="center">
