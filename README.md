@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=18&height=150&section=header&fontSize=30&fontAlign=87&fontAlignY=45&text=Stargazing...&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=18&height=200&section=header&fontSize=30&fontAlign=87&fontAlignY=45&text=Stargazing...&animation=twinkling)
 <!-- 14 15 18 24--> 
 
 
