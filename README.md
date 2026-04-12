@@ -14,7 +14,7 @@ I'm a college Junior majoring in Cyber Security :lock: and Physics :page_facing_
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=lye0102)](https://velog.io/@lye0102)
 
-## My Algorithm 
+## My Algorithm [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yesilver)](https://solved.ac/yesilver)
 <div align="center">
 <br/>
  
