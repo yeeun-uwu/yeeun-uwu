@@ -27,7 +27,7 @@ I'm a college Junior majoring in Cyber Security :lock: and Physics :page_facing_
 ## My Github Stats
 <div align="center">
 
-  [![My GitHub stats](https://github-readme-stats-nine-lac-53.vercel.app/api?username=yeeun-uwu&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats-nine-lac-53.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg) ![Top Languages](./profile/top-langs.svg)
 
 </div>
 
