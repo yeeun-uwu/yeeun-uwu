@@ -22,8 +22,6 @@ jobs:
           base: header, activity, repository, metadata
           plugin_lines: yes
           plugin_lines_delay: 30
-          plugin_achievements: yes
-          plugin_achievements_display: compact
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
