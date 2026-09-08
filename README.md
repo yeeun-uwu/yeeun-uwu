@@ -5,20 +5,16 @@
 ## Hi there 👋 I'm Sasha! 
 I'm a college Junior majoring in Cyber Security :lock: and Physics :page_facing_up: at Ewha Womans University. :mortar_board:
 
-### My Velog... 👀
-<div align="center">
-
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lye0102)](https://github.com/lye0102/velog-readme-stats)
- 
-</div>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=lye0102)](https://velog.io/@lye0102)
-
 
 ## My Github Stats
 <div align="center">
 
-![Metrics](./github-metrics.svg)
+<details>
+<summary> 🌱 </summary>
+ 
+ ![Metrics](./github-metrics.svg)
+
+</details>
 
 ![Stats](./profile/stats.svg) 
 
